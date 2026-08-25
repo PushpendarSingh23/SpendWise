@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is the backend for the Finance Tracker",
   "license": "ISC",
-  "author": "Archa",
+  "author": "Pushpendar Singh",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
